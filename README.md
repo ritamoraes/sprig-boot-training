@@ -1,2 +1,2 @@
 # sprig-boot-training
-First spring-boot repository
+Projeto de treinamento sobre desenvolvimento com Spring-Boot, Gradle and Git
