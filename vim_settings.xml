@@ -1,0 +1,152 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Equals/HashCodeBuilder (Apache commons-lang) hashCode" timestamp="1537752624532">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/src/br/com/tw/bookstore/data/model/Prices.java" timestamp="1537752764403">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="/dojo.books [dojo@localhost]" timestamp="1537752692547">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore2/br.com.bookstore.data/src/hibernate.cfg.xml" timestamp="1537562055069">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1537751508919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/java.util.Objects.equals and hashCode (java 7+) hashCode" timestamp="1537752624558">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore2/br.com.bookstore.data/src/br/com/bookstore/data/entity/MdbSessionFactory.java" timestamp="1537562693454">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/tests/br/com/tw/bookstore/test/register/TestBookRegister.java" timestamp="1537747104006">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="/Objects.equal and hashCode (Guava) equals" timestamp="1537752624546">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/IntelliJ Default equals" timestamp="1537752624512">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dojo.prices [dojo@localhost]" timestamp="1537753032810">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537749668662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Equals/HashCodeBuilder (Apache commons-lang 3) equals" timestamp="1537752624538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/src/br/com/tw/bookstore/data/mapper/BookMapper.java" timestamp="1537753457119">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/src/br/com/tw/bookstore/app/main/MyBatisSessionFactory.java" timestamp="1537751979798">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/java.util.Objects.equals and hashCode (java 7+) equals" timestamp="1537752624554">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/src/br/com/tw/bookstore/app/main/SqlSessionFactory.java" timestamp="1537751492617">
+        <mark key="[" line="24" column="74" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/src/br/com/tw/bookstore/data/model/Books.java" timestamp="1537752725626">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="/dojo.authors [dojo@localhost]" timestamp="1537752284351">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Equals/HashCodeBuilder (Apache commons-lang) equals" timestamp="1537752624528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore-test/pom.xml" timestamp="1537747159274">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bookstore/pom.xml" timestamp="1537556858631">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/IntelliJ Default hashCode" timestamp="1537752624520">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Objects.equal and hashCode (Guava) hashCode" timestamp="1537752624550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spring-boot/pom.xml" timestamp="1539109460218" />
+      <file name="/fragment.java" timestamp="1537752552292">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Equals/HashCodeBuilder (Apache commons-lang 3) hashCode" timestamp="1537752624542">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="15" filename="$USER_HOME$/IdeaProjects/bookstore2/br.com.bookstore.data/src/br/com/bookstore/data/MdbSessionFactory.java" />
+      <jump line="0" column="30" filename="$USER_HOME$/IdeaProjects/bookstore-test/src/test/java/TestBookRegister.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE15QmF0aXNTZXNzaW9uRmFjdG9yeSBteUJhdGlzU2Vzc2lvbkZhY3Rvcnk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>tru</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTcWxTZXNzaW9uRmFjdG9yeSBmYWN0b3J5ID0gYnVpbGRlci5idWlsZChjb25maWd1cmF0aW9uKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Cgo8Lw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA8</text>
+      </register>
+      <register name="-" type="4">
+        <text>tru</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
